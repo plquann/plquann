@@ -14,7 +14,8 @@ const Quan = {
   technicalSkills: {
     frontEnd: {
             js: ["Vanilla JS","ReactJS", "Angular"],
-            css: ["Boostrap","SASS/SCSS"]
+            css: ["Boostrap","SASS/SCSS"],
+            }
     backend: ["NodeJS", "Express", "Restful API"],
     database: ["SQL", "MongoDB"],
   },
