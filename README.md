@@ -56,9 +56,9 @@ const Quan = {
 
 <p></p>
 
-[![Facebook](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/quanphamluong)
-[![GitHub](https://img.shields.io/badge/-quankhs-success?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/quankhs/)
-[![Gmail](https://img.shields.io/badge/-quanphamluong-orange?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/quankhs/)
+[![Facebook](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/quanphamluong)](https://facebook.com/quanphamluong)
+[![GitHub](https://img.shields.io/badge/-quankhs-success?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](https://github.com/quankhs)
+[![Gmail](https://img.shields.io/badge/-quanphamluong-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](mailto:quanphamluong@gmail.com)
 [![Linkedin: quankhs](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](https://www.linkedin.com/in/quankhs/)
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
