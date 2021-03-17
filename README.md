@@ -8,7 +8,7 @@ const Quan = {
   name: "Pham Luong Quan",
   location: "Ho CHi Minh city, Vietnam",
   language: ["Vietnamese", "English"],
-  education: "final year student at University of Science VNUHCM",
+  education: "senior student at University of Science VNUHCM",
   major: "Software Engineer",
   programmingLanguage: "Javascript",
   technicalSkills: {
