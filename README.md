@@ -27,11 +27,12 @@ const Quan = {
 - Learning ReactJS, TypeScript, Angular
 - Complete some courses at University of Science HCM
 - Complete first personal project with MERN stack
+- Learning How to built the Enterprise Application using Microsevices, Domain Driven Model with CQRS anf Event Sourcing
 
 > ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Looking forward to finding out**
 
-- Advanced Topics in Software Engineering: _Software process, Software estimation, SOA, Microservices, CI/CD_
-- Design Patterns
+- Advanced Topics in Software Engineering: _Software process, Software estimation, SOA, Microservices, CI/CD, Testing automation_
+- Design Patterns: CQRS, Event Sourcing, Microservice
 
 <p>
   <a href="https://github.com/quankhs">
