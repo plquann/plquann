@@ -10,14 +10,14 @@ const Quan = {
   language: ["Vietnamese", "English"],
   education: "senior student at University of Science VNUHCM",
   major: "Software Engineer",
-  programmingLanguage: "Javascript",
+  programmingLanguage: ["Javascript", "Typescript"],
   technicalSkills: {
     frontEnd: {
             js: ["Vanilla JS","ReactJS", "Angular"],
-            css: ["Boostrap","SASS/SCSS"],
+            css: ["Boostrap", "SASS/SCSS", "TailwindCSS"],
             },
-    backend: ["NodeJS", "Express", "Restful API"],
-    database: ["SQL", "MongoDB"],
+    backend: ["NodeJS", "Express", "Restful API", "Nestjs", "SocketIO"],
+    database: ["MySQL", "MongoDB"],
   },
 };
 ```
