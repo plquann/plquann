@@ -5,7 +5,7 @@
 ```js
 const Quan = {
   pronouns: "He" | "Him",
-  name: "Pham Luong Quan",
+  name: "PHAM LUONG QUAN",
   location: "Ho CHi Minh city, Vietnam",
   language: ["Vietnamese", "English"],
   education: "senior student at University of Science VNUHCM",
