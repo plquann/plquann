@@ -55,6 +55,7 @@ const Quan = {
 
 > ### <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="22" width="35">**Connect with me**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quankhs&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <p></p>
 
 [![Facebook](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/quanphamluong)](https://facebook.com/quanphamluong)
