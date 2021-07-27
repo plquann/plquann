@@ -2,25 +2,6 @@
 
 > ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> **A little more about me**
 
-```js
-const Quan = {
-  pronouns: "He" | "Him",
-  name: "PHAM LUONG QUAN",
-  location: "Ho CHi Minh city, Vietnam",
-  language: ["Vietnamese", "English"],
-  education: "senior student at University of Science VNUHCM",
-  major: "Software Engineer",
-  programmingLanguage: ["Javascript", "Typescript"],
-  technicalSkills: {
-    frontEnd: {
-            js: ["Vanilla JS","ReactJS", "Angular"],
-            css: ["Boostrap", "SASS/SCSS", "TailwindCSS"],
-            },
-    backend: ["NodeJS", "Express", "Restful API", "Nestjs", "SocketIO"],
-    database: ["MySQL", "MongoDB"],
-  },
-};
-```
 
 > ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Currently working on**
 
