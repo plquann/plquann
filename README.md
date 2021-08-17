@@ -1,4 +1,4 @@
-## **_Hello World! I'm Quan from VietNam with love_** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" height="50">
+## **_Hello World! I'm Quan from VietNam with love_** 
 
 > ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> **A little more about me**
 
