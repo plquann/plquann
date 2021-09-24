@@ -1,7 +1,13 @@
-## **_Hello World! I'm Quan from VietNam with love_** 
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Quan <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-> ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> **A little more about me**
-
+> ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> **⚡ Technologies**
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwindcss, React**.
+- Backend development using **Nodejs, Express, Nestjs**.
+- Making for **Relational Database Management Systems**.
+- Full-stack system design implementation.
+- Desktop application development using **NET** (Still learning).
+- Mobile application development using **Flutter and React Native** (Still learning).
 
 > ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Currently working on**
 
