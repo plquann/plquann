@@ -25,7 +25,7 @@ Talk to me about:
 
 <p>
   <a href="https://github.com/quankhs">
-        <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=quankhs&show_icons=true&hide_border=true&theme=dracula" />
+        <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=plquann&show_icons=true&hide_border=true&theme=dracula" />
   </a>
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
