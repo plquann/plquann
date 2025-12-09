@@ -4,29 +4,23 @@
 > ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> **⚡ Technologies**
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Tailwindcss, React**.
-- Backend development using **Nodejs, Express, Nestjs**.
+- Backend development using **Java, Spring, SpringBoot**.
 - Making for **Relational Database Management Systems**.
 - Full-stack system design implementation.
-- Desktop application development using **NET** (Still learning).
-- Mobile application development using **Flutter and React Native** (Still learning).
+- Mobile application development using **React Native**.
 
 > ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Currently working on**
 
 - Learning ReactJS, TypeScript, Angular
-- Complete some courses at University of Science HCM
-- Mobile Development with React Native and Flutter
-- Learning How to built the Enterprise Application using Microsevices, Domain Driven Model with CQRS anf Event Sourcing
+- Mobile Development with React Native 
+- Learning How to built the Enterprise Application using Microsevices, Domain Driven Model with CQRS and Event Sourcing
 
 > ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Looking forward to finding out**
 
 - Advanced Topics in Software Engineering: _Software process, Software estimation, SOA, Microservices, CI/CD, Testing automation_
 - CQRS, Event Sourcing, Microservice
-- Mobile Development with React Native and Flutter
+- Mobile Development with React Native 
 
-<p>
-  <a href="https://github.com/quankhs">
-        <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=plquann&show_icons=true&hide_border=true&theme=dracula" />
-  </a>
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
