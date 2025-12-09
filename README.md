@@ -9,12 +9,6 @@ Talk to me about:
 - Full-stack system design implementation.
 - Mobile application development using **React Native**.
 
-> ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Currently working on**
-
-- Learning ReactJS, TypeScript, Angular
-- Mobile Development with React Native 
-- Learning How to built the Enterprise Application using Microsevices, Domain Driven Model with CQRS and Event Sourcing
-
 > ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Looking forward to finding out**
 
 - Advanced Topics in Software Engineering: _Software process, Software estimation, SOA, Microservices, CI/CD, Testing automation_
