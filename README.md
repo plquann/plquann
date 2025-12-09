@@ -37,7 +37,7 @@ Talk to me about:
 [![Facebook](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/quanphamluong)](https://facebook.com/quanphamluong)
 [![GitHub](https://img.shields.io/badge/-quankhs-success?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](https://github.com/quankhs)
 [![Gmail](https://img.shields.io/badge/-quanphamluong-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](mailto:quanphamluong@gmail.com)
-[![Linkedin: quankhs](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](https://www.linkedin.com/in/quankhs/)
+[![Linkedin: quankhs](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quanphamluong/)](https://www.linkedin.com/in/quanphamluong/)
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 
